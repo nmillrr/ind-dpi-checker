@@ -26,7 +26,7 @@ If you have an InDesign document full of linked images that need to meet a certa
     <img src="https://github.com/nmillrr/indesign-dpi-checker/blob/main/Step%203.png?raw=true">
 </p>
 
-9.You will be returned with a list of images that do not meet your input standard, along with their current DPIs.
+9. You will be returned with a list of images that do not meet your input standard, along with their current DPIs.
 
 <p align="center" width="100%">
     <img src="https://github.com/nmillrr/indesign-dpi-checker/blob/main/Step%204.png?raw=true">
